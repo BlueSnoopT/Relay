@@ -1,0 +1,92 @@
+{
+    "Information": {
+        "Author": [
+            "Blue Snoop"
+        ],
+        "Description": "A file created to list all Pazers logged inside Telegram Logs",
+        "Title": "Generated Pazer List"
+    },
+    "Players": [
+        {
+            "attribute": "Pazer",
+            "last_seen": {
+                "name": "Galaxy 97.0°W",
+                "time": "07/27/2022"
+            },
+            "steamid": "U:1:1256583530",
+            "steamidraw": "1256583530"
+        },
+        {
+            "attribute": "Pazer",
+            "last_seen": {
+                "name": "Astra 19.2°E",
+                "time": "07/28/2022"
+            },
+            "steamid": "U:1:1256698603",
+            "steamidraw": "1256698603"
+        },
+        {
+            "attribute": "Pazer",
+            "last_seen": {
+                "name": "Juice of The White",
+                "time": "07/28/2022"
+            },
+            "steamid": "U:1:96100379",
+            "steamidraw": "96100379"
+        },
+        {
+            "attribute": "Pazer",
+            "last_seen": {
+                "name": "Maldoon",
+                "time": "07/28/2022"
+            },
+            "steamid": "U:1:189150252",
+            "steamidraw": "189150252"
+        },
+        {
+            "attribute": "Pazer",
+            "last_seen": {
+                "name": "Daniel",
+                "time": "07/29/2022"
+            },
+            "steamid": "U:1:82491713",
+            "steamidraw": "82491713"
+        },
+        {
+            "attribute": "Pazer",
+            "last_seen": {
+                "name": "KnavE",
+                "time": "07/29/2022"
+            },
+            "steamid": "U:1:32620006",
+            "steamidraw": "32620006"
+        },
+        {
+            "attribute": "Pazer",
+            "last_seen": {
+                "name": "MIXERRULES | .gg/MixersManor",
+                "time": "07/29/2022"
+            },
+            "steamid": "U:1:127392763",
+            "steamidraw": "127392763"
+        },
+        {
+            "attribute": "Pazer",
+            "last_seen": {
+                "name": "pablopablitoelclavaclavos_666.",
+                "time": "07/30/2022"
+            },
+            "steamid": "U:1:430257111",
+            "steamidraw": "430257111"
+        },
+        {
+            "attribute": "Pazer",
+            "last_seen": {
+                "name": "Tide Turner Collector",
+                "time": "07/30/2022"
+            },
+            "steamid": "U:1:933274507",
+            "steamidraw": "933274507"
+        }
+    ]
+}

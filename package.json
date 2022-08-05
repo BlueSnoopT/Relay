@@ -1,0 +1,31 @@
+{
+  "name": "Relay",
+  "version": "1.0",
+  "description": "Telegram Relay Bot",
+  "main": "Source/Run.js",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "datetime": "0.0.3",
+    "diff": ">=3.5.0",
+    "fs": "0.0.1-security",
+    "node-telegram-bot-api": "^0.58.0",
+    "play-sound": "^1.1.5",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "shelljs": "^0.8.5",
+    "tail": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueSnoopT/Relay.git"
+  },
+  "author": "BlueSnoopT",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "bugs": {
+    "url": "https://github.com/BlueSnoopT/Relay/issues"
+  },
+  "homepage": "https://github.com/BlueSnoopT/Relay#readme"
+}

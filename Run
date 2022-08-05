@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+# Check for node
+if [ ! -x "$(command -v node)" ]; then
+{
+    echo -e "You don't even have node installed? maybe install it first"
+    exit
+}
+fi
+
+REQUEST=$1
+
+# Module Check
+if [ ! -e "node_modules" ]; then
+    npm i
+fi
+
+node Source/Run.js
+
+# Error Process
+clear
+echo -e "\x1b[31mError Text Length exceeds telegrams max character limit\nScript will automatically restart in 7 seconds\x1b[34m";
+sleep 7
+./Run
